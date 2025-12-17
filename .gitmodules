@@ -1,3 +1,6 @@
 [submodule "Linear_regg"]
 	path = Linear_regg
 	url = https://github.com/Eshita-1512/Linear_regg.git
+[submodule "Logistic_regg"]
+	path = Logistic_regg
+	url = https://github.com/Eshita-1512/Logistic_regg.git
